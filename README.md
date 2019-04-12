@@ -4,7 +4,7 @@
 ### Justificaciones y explicaciones
 
 #### Colores
-He optado por hacer el diseño en modo oscuro no porque me parezca que funcione mejor, de hecho tengo serias dudas, si no porque me parecía más divertido complicarme la vida y enredar un poco. 
+He optado por hacer el diseño en modo oscuro no porque me parezca que funcione mejor, de hecho tengo serias dudas, si no porque me parecía más divertido complicarme la vida y enredar un poco. Y si no me divierto, no aprendo ;-)
 
 
 #### Rejilla
